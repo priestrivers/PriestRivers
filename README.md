@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm  priest rivers 
 
-<!--
-**priestrivers/PriestRivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning political Science at my third year at The University Of Nairobi .
+- I'm interested in web development, and data science
+- I'm looking to collaborate on beginner-friendly open source projects in computer programing  
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+-  Python
+-  HTML
+-  javascrip beginer level
+-  blogging 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+creating New Repository 
+
+## How to Reach Me
+- Email: jeremaihokumba@gmail.com
+- x (twiter) : https//x.com/priest_rivers
+- phone no : 254111402112
+  
+## Location 
+Gwa Kairu , Ruiru Kiambu-Kenya 
+
+
